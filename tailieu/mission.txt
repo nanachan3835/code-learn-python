@@ -1,0 +1,2 @@
+RL/DRL (ví dụ: Q-learning, DQN, Dueling DQN và DDPG).
+https://pythonprogramming.net/q-learning-reinforcement-learning-python-tutorial/#google_vignette

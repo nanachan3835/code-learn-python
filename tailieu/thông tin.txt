@@ -1,0 +1,4 @@
+1.Q LEARNING : 
+========================
+2.DEEP Q LEARNING:
+-MDP:THUẬT TOÁN CHO MÔ HÌNH HÓA DECISION MAKING

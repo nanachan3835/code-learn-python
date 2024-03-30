@@ -1,0 +1,9 @@
+DỰ ÁN NÀY SẼ LÀM VỀ DEEP RL 
+
+TRONG DỰ ÁN NÀY PHẢi :
+
+1. giới thiệu về deep reinforcement learning
+2. cac ưnng dụng của drl
+3. các thuật toán đươc sử dụng trong drl
+4. trinh bay về cách drl hoạt động
+5. lấy ví dụ minh họa

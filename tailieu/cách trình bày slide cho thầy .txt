@@ -1,0 +1,12 @@
+các bước trình bày slide thuyết trình cho thầy về deep q learning:
+
+1. giới thiệu về rl và từ đó suy sang drl:
+- trong học máy có các cách học chủ yếu : đó là học giám sát, học không giám sát và học tăng cường . chúng ta đang nói về học tăng cướng
+-học tăng cường cơ bản có q learning là algo cơ bản và tiên tiến nhất , được sử dụng nhiều nhất( nói qua về q learning)
+=> điểm yếu của q learning là không ứng dụng và sử dụng được trong 1 environment lớn và thay đổi liên tục 
+=> để sử lí điểm yếu đó chúng ta sẽ thay q table thành hàm q function đưa vào dnn
+
+2. giải thích về q function và cách hoạt động của dql 
+- q function lấy giá trị về môi trường , so sánh giá trị của q value function và chọn giá trị môi trường có q value tốt nhất có thể
+- thông tin về hàm value learning , policy learning
+- cách sử dụng dnn cho q function : tìm hàm loss 
